@@ -1,0 +1,9 @@
+AppliedIRC LogServ
+
+====================
+Installation
+====================
+
+1) Make sure you import mysql.sql into a MySQL database
+2) Edit the values at the top of LogServ.php
+3) From a cli, run LogServ.php
